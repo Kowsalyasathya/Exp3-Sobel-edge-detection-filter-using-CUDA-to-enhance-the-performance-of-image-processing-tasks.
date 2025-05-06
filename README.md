@@ -1,6 +1,5 @@
 # Exp 3 Sobel edge detection filter using CUDA to enhance the performance of image processing tasks
 
-### EX. NO: 03
 ### ENTER YOUR NAME: KOWSALYA M
 ### REGISTER NO: 212222230069
 ### DATE: 06.05.2025
